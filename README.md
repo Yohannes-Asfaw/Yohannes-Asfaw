@@ -1,21 +1,125 @@
-# 💫 About Me:
-I'm a passionate Full Stack Software Engineer with 3 years of experience, specializing in a diverse tech stack that powers modern applications. From crafting captivating front-end experiences with React.js and React-Native, to architecting robust back-end solutions with Node.js, Django, and FastAPI, I thrive on turning ideas into reality.
+<!-- ==================== HEADER ==================== -->
+<h1 align="center">Hi 👋, I'm Yohannes Asfaw</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Engineer;Backend+Systems+Specialist;AI+Evaluation+%26+Benchmark+Builder;Turning+Ideas+Into+Scalable+Systems" />
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/yohannes_asfaw1/?next=%2F) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yohannes-asfaw-1b8007215/) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Yohannes-Asfaw&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Yohannes-Asfaw&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yohannes-Asfaw&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Yohannes-Asfaw&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=header"/>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Yohannes-Asfaw&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 💫 About Me
+
+🚀 Full-Stack Software Engineer focused on building **scalable systems**, **AI evaluation pipelines**, and **high-performance backends**.
+
+🧠 I specialize in:
+- Backend systems with **Node.js, Go, FastAPI**
+- AI training & **benchmark task design**
+- Full-stack apps with **React & TypeScript**
+
+⚡ What makes me different:
+- I don’t just build apps — I design **systems that scale**
+- Strong experience in **AI evaluation (AfterQuery-style work)**
+- Deep understanding of **performance & architecture**
+
+---
+
+# 🧠 What I Bring
+
+✔️ Production-ready backend systems  
+✔️ AI benchmark & evaluation design  
+✔️ Clean, scalable architecture  
+✔️ Problem-solving & algorithmic thinking  
+
+---
+
+# 🚀 Featured Work
+
+🔹 **AI Evaluation Platform**  
+→ Designed benchmark tasks for LLM performance testing  
+
+🔹 **High-Performance Backend API**  
+→ Built scalable system handling complex data pipelines  
+
+🔹 **Full-Stack SaaS Application**  
+→ React + Supabase + PostgreSQL  
+
+---
+
+# 🛠 Tech Stack
+
+### 💻 Core
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=typescript)
+![Python](https://img.shields.io/badge/-Python-000?&logo=python)
+![Go](https://img.shields.io/badge/-Go-000?&logo=go)
+![C++](https://img.shields.io/badge/-C++-000?&logo=cplusplus)
+
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=fastapi)
+![Django](https://img.shields.io/badge/-Django-000?&logo=django)
+
+### 🎨 Frontend
+![React](https://img.shields.io/badge/-React-000?&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=next.js)
+
+### 🗄 Databases
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yohannes-Asfaw&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yohannes-Asfaw&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yohannes-Asfaw&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🧬 Activity Graph (3D-like Visual 🔥)
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yohannes-Asfaw&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Yohannes-Asfaw&theme=tokyonight&no-frame=true&margin-w=10"/>
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/yohannes-asfaw-1b8007215">
+    <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://instagram.com/yohannes_asfaw1">
+    <img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram"/>
+  </a>
+</p>
+
+---
+
+# 💡 Final Touch (Recruiter Hook)
+
+<p align="center">
+  🚀 Open to opportunities in Backend, Full-Stack, and AI Engineering  
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+</p>
