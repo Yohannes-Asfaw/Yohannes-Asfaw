@@ -155,7 +155,7 @@ I care about **clean code**, **measurable impact**, and **teams that ship**. If 
 </p>
 
 <p align="center">
-  <img src="./assets/top-langs.svg" alt="Top Languages"/>
+  <img src="assets/top-langs.svg" alt="Top Languages"/>
 </p>
 
 ---
@@ -163,7 +163,7 @@ I care about **clean code**, **measurable impact**, and **teams that ship**. If 
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="./assets/contribution-snake.svg" alt="Contribution Snake"/>
+  <img src="assets/contribution-snake.svg" alt="Contribution Snake"/>
 </p>
 
 ---
