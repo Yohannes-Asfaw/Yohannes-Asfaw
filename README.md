@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a passionate Full Stack Software Engineer with 8 years of experience, specializing in a diverse tech stack that powers modern applications. From crafting captivating front-end experiences with React.js and React-Native, to architecting robust back-end solutions with Node.js, Django, and FastAPI, I thrive on turning ideas into reality.
+I'm a passionate Full Stack Software Engineer with 8+ years of experience, specializing in a diverse tech stack that powers modern applications. From crafting captivating front-end experiences with React.js and React-Native, to architecting robust back-end solutions with Node.js, Django, and FastAPI, I thrive on turning ideas into reality.
 
 
 ## 🌐 Socials:
