@@ -38,14 +38,14 @@
 
 ## 👋 About Me
 
-```typescript
+```javascript
 const yohannes = {
   role: "Full Stack Software Engineer",
   experience: "3+ years shipping production software",
   location: "Available worldwide (Remote / Hybrid / On-site)",
   focus: ["Scalable APIs", "Modern UI/UX", "Mobile-first apps", "Clean architecture"],
   currentlyLearning: ["System Design", "Cloud Architecture", "Performance Optimization"],
-  funFact: "I debug faster with good music and strong coffee ☕",
+  funFact: "I debug faster with good music and strong coffee ☕"
 };
 ```
 
@@ -149,23 +149,14 @@ I care about **clean code**, **measurable impact**, and **teams that ship**. If 
 
 <div align="center">
 
-<!-- 3D Contribution Graph -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yohannes-Asfaw&theme=github_dark" alt="Profile Details" width="100%"/>
+<!-- Uses stable mirror endpoints (public vercel.app instances often return 503/500) -->
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Yohannes-Asfaw&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=percentile&custom_title=GitHub%20Stats" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yohannes-Asfaw&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Yohannes-Asfaw&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=percentile&custom_title=Yohannes%27s%20GitHub%20Stats" alt="GitHub Stats" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yohannes-Asfaw&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yohannes-Asfaw&theme=tokyonight&hide_border=true&layout=compact&include_all_commits=true&count_private=true&langs_count=10" alt="Top Languages" width="48%"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yohannes-Asfaw&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Activity Graph" width="48%"/>
-
-<br/><br/>
-
-<!-- Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=Yohannes-Asfaw&theme=radical&no-frame=false&no-bg=true&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies" width="100%"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Yohannes-Asfaw&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" height="165"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yohannes-Asfaw&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution Activity" height="165"/>
 
 </div>
 
@@ -175,8 +166,9 @@ I care about **clean code**, **measurable impact**, and **teams that ship**. If 
 
 <div align="center">
 
-<!-- Snake animation - requires GitHub Action setup (see SETUP.md) -->
-<img src="https://raw.githubusercontent.com/Yohannes-Asfaw/Yohannes-Asfaw/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+<!-- Generated daily by .github/workflows/snake.yml → output branch -->
+<!-- Appears after you push this repo and run the workflow once from the Actions tab -->
+<img src="https://raw.githubusercontent.com/Yohannes-Asfaw/Yohannes-Asfaw/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
 
 </div>
 
