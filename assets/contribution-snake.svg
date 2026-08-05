@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="830" height="120" viewBox="0 0 830 120">
+  <rect width="830" height="120" rx="6" fill="#0d1117"/>
+  <rect x="1" y="1" width="828" height="118" rx="6" fill="none" stroke="#30363d"/>
+  <text x="415" y="52" fill="#58a6ff" font-family="Segoe UI, sans-serif" font-size="16" text-anchor="middle">Contribution snake generates after the first workflow run</text>
+  <text x="415" y="78" fill="#8b949e" font-family="Segoe UI, sans-serif" font-size="13" text-anchor="middle">Actions ’ Generate Snake Animation ’ Run workflow</text>
+</svg>
