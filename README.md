@@ -38,16 +38,9 @@
 
 ## 👋 About Me
 
-```javascript
-const yohannes = {
-  role: "Full Stack Software Engineer",
-  experience: "3+ years shipping production software",
-  location: "Available worldwide (Remote / Hybrid / On-site)",
-  focus: ["Scalable APIs", "Modern UI/UX", "Mobile-first apps", "Clean architecture"],
-  currentlyLearning: ["System Design", "Cloud Architecture", "Performance Optimization"],
-  funFact: "I debug faster with good music and strong coffee ☕"
-};
-```
+<p align="center">
+  <img src="./assets/about-me.svg" alt="About Me"/>
+</p>
 
 I'm a **Full Stack Software Engineer** with **3+ years of experience** building products end-to-end — from pixel-perfect **React** & **React Native** interfaces to resilient **Node.js**, **Django**, and **FastAPI** backends.
 
@@ -147,30 +140,31 @@ I care about **clean code**, **measurable impact**, and **teams that ship**. If 
 
 ## 📈 GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Yohannes-Asfaw?style=for-the-badge&logo=github&label=Followers&color=667eea"/>
+  <img src="https://img.shields.io/github/stars/Yohannes-Asfaw?style=for-the-badge&logo=github&label=Total%20Stars&color=764ba2"/>
+  <img src="https://img.shields.io/github/commit-activity/y/Yohannes-Asfaw?style=for-the-badge&logo=git&label=Commits%20%2F%20Year&color=0EA5E9"/>
+</p>
 
-<!-- Uses stable mirror endpoints (public vercel.app instances often return 503/500) -->
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Yohannes-Asfaw&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=percentile&custom_title=GitHub%20Stats" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yohannes-Asfaw&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+<p align="center">
+  <img src="./assets/github-stats.svg" alt="GitHub Stats"/>
+</p>
 
-<br/><br/>
+<p align="center">
+  <img src="./assets/github-streak.svg" alt="GitHub Streak"/>
+</p>
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Yohannes-Asfaw&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" height="165"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yohannes-Asfaw&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution Activity" height="165"/>
-
-</div>
+<p align="center">
+  <img src="./assets/top-langs.svg" alt="Top Languages"/>
+</p>
 
 ---
 
 ## 🐍 Contribution Snake
 
-<div align="center">
-
-<!-- Generated daily by .github/workflows/snake.yml → output branch -->
-<!-- Appears after you push this repo and run the workflow once from the Actions tab -->
-<img src="https://raw.githubusercontent.com/Yohannes-Asfaw/Yohannes-Asfaw/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
-
-</div>
+<p align="center">
+  <img src="./assets/contribution-snake.svg" alt="Contribution Snake"/>
+</p>
 
 ---
 
