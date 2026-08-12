@@ -94,7 +94,7 @@
                     </svg>
 
                     <text class="text" x="25" y="12.5">Total Repo:</text>
-                    <text class="text" style="font-weight: 700" x="150" y="12.5">32</text>
+                    <text class="text" style="font-weight: 700" x="150" y="12.5">37</text>
                 </g>
             </g>
 
@@ -107,7 +107,7 @@
                     </svg>
 
                     <text class="text" x="25" y="12.5">Star's Count:</text>
-                    <text class="text" style="font-weight: 700" x="150" y="12.5">31</text>
+                    <text class="text" style="font-weight: 700" x="150" y="12.5">44</text>
                 </g>
             </g>
 
